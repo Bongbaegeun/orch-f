@@ -1,0 +1,10 @@
+[Core]
+Name = Kt Svr All Common WF
+Module = WFSvrKtComm_v001.py
+
+[Documentation]
+Author = BBG
+Version = 0.0.1
+Website = http://kt.com
+Description = WF Server All Common Manager Plugin. for One-Box Orch.
+

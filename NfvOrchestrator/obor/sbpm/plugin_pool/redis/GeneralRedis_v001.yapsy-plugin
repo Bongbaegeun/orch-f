@@ -1,0 +1,10 @@
+[Core]
+Name = General Redis Plugin
+Module = GeneralRedis_v001.py
+
+[Documentation]
+Author = BBG
+Version = 0.0.1
+Website = http://kt.com
+Description = SB Connector Plugin. for One-Box Redis.
+

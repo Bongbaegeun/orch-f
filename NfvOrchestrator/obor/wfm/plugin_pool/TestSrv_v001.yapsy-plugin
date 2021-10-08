@@ -1,0 +1,10 @@
+[Core]
+Name = Test Svr WF 
+Module = TestSrv_v001.py
+
+[Documentation]
+Author = HJC
+Version = 0.0.1
+Website = http://kt.com
+Description = WF Server Manager Plugin. for One-Box Orch.
+

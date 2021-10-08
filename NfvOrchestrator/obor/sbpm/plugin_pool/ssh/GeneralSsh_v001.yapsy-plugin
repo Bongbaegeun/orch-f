@@ -1,0 +1,10 @@
+[Core]
+Name = General SSH Plugin
+Module = GeneralSsh_v001.py
+
+[Documentation]
+Author = BBG
+Version = 0.0.1
+Website = http://kt.com
+Description = SB Connector Plugin. for One-Box Ssh.
+

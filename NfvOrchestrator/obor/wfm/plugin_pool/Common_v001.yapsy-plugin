@@ -1,0 +1,10 @@
+[Core]
+Name = Common  Plugin
+Module = Common_v001.py
+
+[Documentation]
+Author = HJC
+Version = 0.0.1
+Website = http://kt.com
+Description = SB Orchm Connector Plugin. for One-Box Orch.
+
