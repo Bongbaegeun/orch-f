@@ -1,0 +1,10 @@
+[Core]
+Name = General Odm  Plugin
+Module = GeneralOdm_v001.py
+
+[Documentation]
+Author = HJC
+Version = 0.0.1
+Website = http://kt.com
+Description = SB Odm Connector Plugin. for One-Box Orch.
+

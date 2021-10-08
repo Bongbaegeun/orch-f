@@ -1,0 +1,10 @@
+[Core]
+Name = Work Flow Service Order Plugin
+Module = WFSvcOrder_v001.py
+
+[Documentation]
+Author = HJC
+Version = 0.0.1
+Website = http://kt.com
+Description = Work Flow Service Order Process Plugin. for One-Box Orch.
+
